@@ -11,10 +11,11 @@ name: Deploy Python Package
 on:
   push:
     branches:
-     -  develop
+      -  develop
+      -  main
   pull_request:
     branches:
-     - develop
+      - develop
 
 permissions:
   contents: read
