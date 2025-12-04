@@ -1,3 +1,5 @@
+CONTEXTUAL
+
 ![Hero Image](./assets/heroImage.png)
 
 ## Zerox OCR
