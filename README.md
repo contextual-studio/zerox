@@ -1,9 +1,6 @@
 ![Hero Image](./assets/heroImage.png)
 
 ## Zerox OCR
-No poppler dependency:
-pip install PyMuPDF
-pip uninstall pdf2image
 
 <a href="https://discord.gg/smg2QfwtJ6">
   <img src="https://github.com/user-attachments/assets/cccc0e9a-e3b2-425e-9b54-e5024681b129" alt="Join us on Discord" width="200px">
