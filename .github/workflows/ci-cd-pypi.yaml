@@ -27,10 +27,7 @@ jobs:
           uv sync --all-groups --all-extras
           source .venv/bin/activate
 
-      - name: Install pre-commit hooks
-        run: uv run pre-commit install --install-hooks
-
-      - name: Run hooks Formaters, Linters and Static type verifiers
+      - name: Run pre-commit hooks
         run: uv run pre-commit run --all-files
 
       - name: Run tests
