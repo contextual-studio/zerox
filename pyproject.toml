@@ -29,6 +29,7 @@ pre-install = "py_zerox.scripts.pre_install:check_and_install"
 notebook = "^7.2.1"
 black = "^24.4.2"
 ruff = "^0.5.5"
+pre-commit = "^4.0.1"
 
 [tool.poetry.group.test.dependencies]
 pytest = "^8.3.2"
