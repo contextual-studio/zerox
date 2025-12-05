@@ -523,4 +523,4 @@ We use a combination of `libreoffice` and `graphicsmagick` to do document => ima
 
 ### License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License. 
