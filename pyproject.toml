@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "py-zerox"
+name = "contextual-studio-ai-zerox"
 version = "0.1.0"
 description = "ocr documents using vision models from all popular providers like OpenAI, Azure OpenAI, Anthropic, AWS Bedrock etc"
 authors = ["wizenheimer","pradhyumna85"]
