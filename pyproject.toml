@@ -9,7 +9,7 @@ packages = [{ include = "pyzerox", from = "py_zerox" }]
 repository = "https://github.com/getomni-ai/zerox.git"
 documentation = "https://github.com/getomni-ai/zerox"
 keywords = ["ocr", "document", "llm"]
-package-mode = false
+
 
 
 [tool.poetry.dependencies]
